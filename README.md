@@ -11,12 +11,11 @@ Qualification for being on this list is:
 
 # Examples
 ## Large Organization
-These are open source enterprise level organinzation profiles.
+These are open source enterprise sized github profiles.
 - [BBC GitHub](https://github.com/bbc/)
 - [NAV IT GitHub](https://github.com/navikt/)
 ## React
 This is for project utilizing React as their framework.
-- (BBC SPA)[https://github.com/bbc/simorgh]
+- [BBC SPA](https://github.com/bbc/simorgh)
 	Older React based project using JavaScript.
 	Looks like they are currently migrating over to TypeScript.
-	
